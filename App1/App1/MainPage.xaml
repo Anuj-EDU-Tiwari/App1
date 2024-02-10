@@ -13,8 +13,8 @@
             <Label.FormattedText>
                 <FormattedString>
                     <FormattedString.Spans>
-                        <Span Text=" "/>
-                        <Span Text="" FontAttributes="Bold"/>
+                        <Span Text="DAY-1" />
+                        <Span Text="10 Feb 2024" FontAttributes="Bold"/>
                     </FormattedString.Spans>
                 </FormattedString>
             </Label.FormattedText>
